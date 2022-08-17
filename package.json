@@ -1,0 +1,29 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "differences calculator",
+  "main": "index.js",
+    "bin": {
+    "gendiff": "bin/gendiff.cjs"},
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksKutsenko/frontend-project-lvl2.git"
+  },
+  "keywords": [
+    "differences",
+    "compare"
+  ],
+  "author": "AlkesKutsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksKutsenko/frontend-project-lvl2/issues"
+  },
+  "type":"module", 
+  "homepage": "https://github.com/AleksKutsenko/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}

@@ -3,7 +3,7 @@ install:
 
 
 gendiff:
-			node bin/gendiff.cjs
+			node bin/gendiff.js
 
 
 publish:

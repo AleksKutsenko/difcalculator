@@ -1,4 +1,4 @@
-name: lint_check
+name: node_test
 on: [push]
 env:
   CI: true

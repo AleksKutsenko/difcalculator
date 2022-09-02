@@ -15,3 +15,10 @@ test('genDiff_json', () => {
   const filepath2 = getFixturePath('file2.json');
   expect(gendiff(filepath1, filepath2)).toEqual(result);
 });
+
+test('genDiff_yml', () => {
+  const result = readFile('file_result.yml');
+  const filepath1 = getFixturePath('file1.yml');
+  const filepath2 = getFixturePath('file2.yml');
+  expect(gendiff(filepath1, filepath2)).toEqual(result);
+});

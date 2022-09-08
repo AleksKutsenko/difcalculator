@@ -13,7 +13,7 @@ test('genDiff_json', () => {
   const result = readFile('file_result.json');
   const filepath1 = getFixturePath('file1.json');
   const filepath2 = getFixturePath('file2.json');
-  expect(gendiff(filepath1, filepath2)).toEqual(result);
+  expect(gendiff(filepath1, filepath2, 'json')).toEqual(result);
 });
 
 test('genDiff_yml', () => {

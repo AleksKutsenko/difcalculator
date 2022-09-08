@@ -21,5 +21,5 @@ Example of how program works are shown further:
 
 ### Difference-calculator:
 
-<a href="s://asciinema.org/a/RqQ1CZewwhYI7B2m2YSvhW9NP"> 
-<img src="s://asciinema.org/a/RqQ1CZewwhYI7B2m2YSvhW9NP.svg" /> </a>
+<a href="https://asciinema.org/a/RqQ1CZewwhYI7B2m2YSvhW9NP"> 
+<img src="https://asciinema.org/a/RqQ1CZewwhYI7B2m2YSvhW9NP.svg" /> </a>
